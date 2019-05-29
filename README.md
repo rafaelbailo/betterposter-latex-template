@@ -1,5 +1,7 @@
 # Better Poster Latex Template
 
+*Now available in [Overleaf](https://www.overleaf.com/latex/templates/better-poster-latex-template/gmkgjvxqbyyt)!*
+
 The **Better Poster** is [Mike Morrison](https://twitter.com/mikemorrison)'s response to the traditional academic poster. In his own words:
 > Every field in science uses the same, old, wall-of-text poster design. If we can improve the knowledge transfer efficiency of that design even by a little bit, it could have massive ripple effects on all of science.
 > 
